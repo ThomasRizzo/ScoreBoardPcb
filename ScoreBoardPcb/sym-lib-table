@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "CD4066BM96")(type "KiCad")(uri "${KIPRJMOD}/CD4066BM96.kicad_sym")(options "")(descr ""))
   (lib (name "ADM3101EARQZ")(type "KiCad")(uri "${KIPRJMOD}/ADM3101EARQZ.kicad_sym")(options "")(descr ""))
+  (lib (name "CD74HCT4066M96")(type "KiCad")(uri "${KIPRJMOD}/CD74HCT4066M96.kicad_sym")(options "")(descr ""))
 )

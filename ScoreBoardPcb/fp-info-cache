@@ -1,4 +1,4 @@
-25212451582721064
+25217694088362209
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92378,6 +92378,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+ScoreBoardPcb
+D14
+
+CD74HCT4066M96 
+0
+14
+14
+ScoreBoardPcb
+D14-L
+
+CD74HCT4066M96 
+0
+14
+14
+ScoreBoardPcb
+D14-M
+
+CD74HCT4066M96 
+0
+14
+14
 ScoreBoardPcb
 RQ_16_ADI
 
