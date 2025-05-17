@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ScoreBoardPcb")(type "KiCad")(uri "C:/_PERSONAL/ScoreBoard/ScoreBoardPcb.pretty")(options "")(descr ""))
+)
